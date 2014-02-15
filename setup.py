@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-pageviews',
-    version='0.1',
+    version='1.0.0',
     description='Django Pageviews',
     author='Renyi Khor',
     author_email='renyi.ace@gmail.com',
